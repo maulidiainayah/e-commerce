@@ -7,6 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Laravel E-Commerce
+
+> ⚠️ **Status:** Project ini masih dalam tahap pengembangan *(on progress)*. Beberapa fitur mungkin belum sepenuhnya selesai atau stabil.
+
+Aplikasi e-commerce sederhana berbasis Laravel. Project ini dibuat untuk simulasi toko online dengan fitur dasar seperti katalog produk, keranjang belanja, checkout, dan dashboard admin.
+
+##  Fitur Utama
+
+-  List produk dengan kategori
+-  Cart (keranjang belanja)
+-  Checkout & upload bukti pembayaran
+-  Kelola produk (admin)
+-  Login & register user
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
